@@ -1,0 +1,15 @@
+{
+  "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
+  "separate-pull-requests": true,
+  "tag-separator": "/",
+  "packages": {
+    "targetA": {
+      "release-type": "simple",
+      "component": "targetA"
+    },
+    "targetB": {
+      "release-type": "simple",
+      "component": "targetB"
+    }
+  }
+}
