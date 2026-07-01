@@ -1,6 +1,6 @@
 # Target A
 
-リリース対象 A のサンプルディレクトリです。
+release-please モノレポサンプルのリリース対象 A です。
 
 ## Features
 
